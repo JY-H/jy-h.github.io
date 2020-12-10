@@ -42,9 +42,9 @@ WHOOP determines your recovery based on your resting heart rate and heart rate v
 
 I won't go into the science of heart rate variability here, but simply think of it for now as a gauge of how responsive your body is to stress signals; a low HRV indicates that your body
 is preoccupied with stress and inflammation, whereas a high HRV indicates that your body is readily responsive to stress signals. Generally, I've discovered that if I'm in the red (under 30% recovery), or in the high greens (90%+ recovery), I can feel the difference in training. The middle grounds are
-difficult to tell. However, what's nice about this is that your HRV isn't solely dependent on how hard you've _worked out_ the previous day, but also whether you've experienced any stress in general life, affecting your performance. As such, this takes a lot of guesswork out of training planning.
+difficult to tell. However, what's nice about this is that your HRV isn't solely dependent on how hard you've _worked out_ the previous day, but also whether you've experienced any stress in general life, affecting your performance. As such, this takes a lot of guesswork and guilt out of training planning.
 
-WHOOP also offers a nice little survey each day on your diet and sleep habits of the previous day. This offers insights into how your nutrition and sleep hygiene affects your recovery, as well as incentives and/or guide on how to improve them. 
+WHOOP also prompts you each morning with a nice little survey on your diet and sleep habits of the previous day. This offers insights into how your nutrition and sleep hygiene affects your recovery, as well as incentives and/or guide on how to improve them. 
 
 ### Specific to Boxing
 Here are some things that those of you who box might wonder:
