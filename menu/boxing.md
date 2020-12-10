@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Software Things
+title: Boxing Things
 ---
 <ul class="posts">
   {% for post in site.posts %}
-  {% if post.tags contains 'code' %}
+  {% if post.tags contains 'boxing' %}
 
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
