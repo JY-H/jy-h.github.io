@@ -5,7 +5,7 @@ author: "JY"
 tags: [code, software, smash, fighters, fighting games, delay-based netcode, rollback netcode, netcode, fps, games, shooters]
 ---
 
-Since the start of quarantine in March, my coach has dragged me to play smash ultimate, for an average of an hour per day, everyday, for the past nine months. Suffice to say, as we got better at the game, frustrations grew when the occasional lag spike ruined a tightly contested match.
+Since the start of quarantine in March, my coach has dragged me to play smash ultimate. We have been playing for an average of an hour per day, everyday, for the past nine months. Suffice to say, as we got better at the game, frustrations grew when the occasional lag spike ruined a tightly contested match.
 
 As someone who grew up playing MMOs and FPS games, my mental model of game networking was that of a dedicated game server network model, where dedicated machines provide enough bandwidth to handle all players that connect to it. This network model is expensive to maintain (you either need to own data centers, or contract it out to tech giants who offer cloud services), but makes it easy to put forth optimizations like restrictions against high-ping players, anti-cheats, etc, which are indispensable to modern gameplay. Fighting games on the other hand, utilize a peer-to-peer network model. Smash in particular, uses delay-based netcode. More on that later.
 
