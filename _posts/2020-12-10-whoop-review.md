@@ -6,7 +6,7 @@ tags: [boxing]
 image: whoop.png
 ---
 
-Today marks the 350th day I've consecutively worn the WHOOP strap, so it seems safe to say that I've accumulated sufficient experience to report back on my findings. If you don't know about the WHOOP band, [this video](https://youtu.be/R0dXW_bEmyI) will give you a quick 40 second overview. Head over there and come back :)
+Today marks the 350th day I've consecutively worn the WHOOP strap, so it seems safe to say that I've accumulated sufficient experience to report back on my findings. If you don't know about the WHOOP band, [this video](https://youtu.be/R0dXW_bEmyI){:target="_blank"} will give you a quick 40 second overview. Head over there and come back :)
 
 To back up my claim of "sufficient experience", here's my overall statistics in terms of activities for the last year:
 * 229x Boxing.
