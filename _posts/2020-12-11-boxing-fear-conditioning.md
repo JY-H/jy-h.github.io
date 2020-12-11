@@ -30,6 +30,6 @@ And sad to report, I'm no RJJ :(
 Some choose to never spar hard, and that's OK. But if you do choose to go down the road of competition, the nerves never go away. And that's part of the beauty of this sport -- you have to learn to harness your emotions, you have to learn to keep trying and adapting despite failures, and a coach has to know his fighter well enough to read and manipulate their reactions. Just like creating conditioning programs, there's no cookie-cutter recipe for how a fighter or coach can accomplish this; and unfortunately it's not a topic that arises often in
 conversation between boxers unless there's a deep-seated trust because we all have egoes to protect :)
 
-There are a lot of things you can try, and I won't go into the specifics here. However, I think the nerves are perhaps the most natural, most human part of this sport. Because from the neuroscience perspective, it is literally programmed into our bodies.
+But between you and me, I think out of everything in this sport, being scared is perhaps the most natural, most human thing. After all, from the neuroscience perspective it is literally programmed into our bodies.
 
 So don't fight it. Embrace it.
