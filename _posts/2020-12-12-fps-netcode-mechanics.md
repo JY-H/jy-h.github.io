@@ -26,7 +26,7 @@ packets must travel.
 For now we will follow an extremely simple mental model of two clients, player A and player B, and a single central server.
 
 #### Interpolation
-Let's say that the server receives data from player A on his positioning, and sends that data to player B at a rate of 64Hz. If we assume that player B has a client update rate capable of handling the received data, the game would still be unplayable without additional processing because in the view of B, A would simply be teleporting to a new position every ~15 milliseconds. The game would be choppy and virtually unplayable.
+Let's say that the server receives data from player A on its positioning, and sends that data to player B at a rate of 64Hz. If we assume that player B has a client update rate capable of handling the received data, the game would still be unplayable without additional processing because in the view of B, A would simply be teleporting to a new position every ~15 milliseconds. The game would be choppy and virtually unplayable.
 
 To make the game playable, you must smooth out this movement via a technique called entity interpolation. In order to animate movement, we need to know the starting position as well as the ending position. This means that the information a client receives from the server is held for a tick before it is animated on the screen. This causes delay in addition to the client-server ping delay. We call this the interpolation delay.
 
