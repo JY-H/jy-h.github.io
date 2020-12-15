@@ -29,7 +29,7 @@ Note that the first two examples are simply streaming devices which make games m
 
 In essence, the technology has the same framework across the board regardless of which streaming service you pick, where the only distinguishing factors contributing to the gaming experience are processing power of the host machines and bandwidth of the network. This means that aside from ensuring that your internet service has sufficient bandwidth, you will want to pick the cheapest option with the most reliable and proximal set of hosts. 
 
-### Who it's for?
+### Who it's for
 For the purposes of this section, we will consider only the game streaming services (and not the cast devices).
 
 #### The Same Latency Problem
