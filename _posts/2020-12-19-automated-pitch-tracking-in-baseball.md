@@ -2,7 +2,7 @@
 layout: post
 title: "Technology in Sports: How Automated Pitch Tracking Works in Baseball"
 author: "JY"
-tags: [software, baseball, technology, sports, electronic strike zones, trackman, statcast, boxing]
+tags: [code, software, baseball, technology, sports, electronic strike zones, trackman, statcast, boxing]
 image: trackman.jpg
 ---
 
