@@ -98,9 +98,9 @@ I know this is a terrible game design and no one would ever play this game, but 
 |         |  
 |         |  
 +---------+
-|  data   |  since our healing prowess is known since the very start,
-|         |  a healing amount variable might reside here with the value
-|         |  of 5.
+|  data   |  given our healing prowess is known since the very start,
+|         |  for demonstration's sake, let's say a healing amount variable 
+|         |  resides here with the value of 5.
 |         |  
 |         | 
 +---------+
