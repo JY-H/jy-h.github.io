@@ -51,8 +51,7 @@ A generic address space might look something like this:
 |  heap   |  dynamic data that you create on the fly are placed here.
 |         |  Unlike stack variables, which are local to a function
 |         |  (like the "dmg" value in the "take damage" function example),
-|         |  heap variables are accessible by any function. For example,
-|         |  our player object in the game program would be placed here.
+|         |  heap variables are accessible by any function.
 +---------+
 |   bss   |  basically the same as below, but a mere "placeholder" as
 |         |  we don't know the value yet. We called this "uninitialized"
