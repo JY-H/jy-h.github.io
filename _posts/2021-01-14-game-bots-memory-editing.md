@@ -33,6 +33,7 @@ In the non-technical sense, virtual memory is disk space used in place of RAM wh
 
 #### The Address Space
 A generic address space might look something like this:
+{% comment %}
 ```
 +---------+
 |  stack  |  remember the function thingy we defined above? The stack 
@@ -67,6 +68,8 @@ A generic address space might look something like this:
 +---------+
 |  text   |  program code, this is the actual code that is running.
 ```
+{% endcomment %}
+![generic-address-space](/assets/img/generic-address-space.png)
 
 #### An Example
 Let's go through what a simple, example program might look like on this address space to hammer the idea home. Imagine a very simple game:
@@ -76,6 +79,7 @@ Let's go through what a simple, example program might look like on this address 
 * The game is lost if the player's health drops to 0.
 
 I know this is a terrible game design and no one would ever play this game, but for the purposes of demonstration, please bear with me. This is what the address space for the game process might look like when the game is run:
+{% comment %}
 ```
 +---------+
 |  stack  |  the random "dmg" value for "take damage" will live here
@@ -106,6 +110,8 @@ I know this is a terrible game design and no one would ever play this game, but 
 +---------+
 |  text   |  the actual game program gets put here when it's executed.
 ```
+{% endcomment %}
+![example-address-space](/assets/img/example-address-space.png)
 
 #### Memory Scanning and Editing
 So, how would you cheat the simple game I described above? You could theoretically do it one of the following three ways:
