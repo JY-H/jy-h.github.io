@@ -120,7 +120,7 @@ Engine](https://www.cheatengine.org/){:target="_blank"}, which will look for the
 
 Let's say Cheat Engine finds an answer for us and we are confident in the memory address of the variable denoting the healing amount. Now what? The tricky thing here is that each time the game program is restarted, the base memory address of the program changes. So we can't simply reuse the same memory address each time. But we also wouldn't want to have to look for the address of the desired variable every time the game is restarted -- that would make our cheat practically useless.
 
-Fortunately however, assuming the program code (the text itself) doesn't change in between runs, a global variable will always be placed at the same offset from the base memory address of the program. So in our cheat, we'd want to retrieve the base memory address of the process, and edit the memory address at `game_base_address + offset` to be 50, rather than the healing prowess of a measly 5.
+Fortunately however, assuming the program code (the text itself) doesn't change in between runs, a global variable will always be placed at the same offset from the base memory address of the program. So in our cheat, we'd want to retrieve the base memory address of the process, and edit the memory address at `game_base_address + offset` to be 50, instead of a measly 5.
 
 Inject this cheat into the game program using DLL injection (let's not get into
 it here or I'm going to be writing for ages), and voila, as long as we keep pressing space bar, we will never lose the game!
