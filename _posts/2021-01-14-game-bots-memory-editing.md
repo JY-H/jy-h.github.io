@@ -153,4 +153,6 @@ Logic to automate the bot:
 * To get fancier you can program in auto-storage or auto-auction, or even some route optimization for a gathering path.
 
 ### Closing Thoughts
-To be honest, writing this post has taken far longer than what I had originally anticipated, and even at over two thousand words and an oversimplification of many of the technical details, I've barely scratched the surface. This topic, as an application of reverse engineering, assembly code analysis, memory manipulation, code injection, etc, has gotten me hooked to some extent. They say low-level programming is good for the soul... So I shall go learn more, and report back in due time.
+To be honest, writing this post has taken far longer than what I had originally anticipated, and even at over two thousand words and an oversimplification of many of the technical details, I've barely scratched the surface. So I'm going to end it here for now.
+
+With that said however, this topic, as an application of reverse engineering, assembly code analysis, memory manipulation, code injection, etc, has gotten me hooked to some extent. They say low-level programming is good for the soul... So I shall go learn more, and report back in due time.
