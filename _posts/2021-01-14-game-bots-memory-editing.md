@@ -71,7 +71,7 @@ A generic address space might look something like this:
 #### An Example
 Let's go through what a simple, example program might look like on this address space to hammer the idea home. Imagine a very simple game:
 * A player starts off with health at 100.
-* A game loop, where on each loop of the game, the player randomly "takes damage", from 1 to 50.
+* A game loop, where on each loop of the game, the player "takes damage" equal to a random value, ranging from 1 to 50.
 * If the player presses space bar, the player can "heal" with +5 to the health.
 * The game is lost if the player's health drops to 0.
 
