@@ -40,7 +40,7 @@ A generic address space might look something like this:
 |         |  a "take damage" function might calculate the damage based
 |         |  on the player's defense, and the opponent's attack power,
 |         |  we can do some calculations within the function, apply the
-|         |  damage to our playershealth, then forget about it.
+|         |  damage to our player's health, then forget about it.
 +---------+
 | shared  |  shared libraries loaded by a program, not important for 
 |  libs   |  our discussion here.
