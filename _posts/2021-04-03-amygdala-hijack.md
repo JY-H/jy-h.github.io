@@ -9,7 +9,7 @@ So, imagine this.
 
 You are about to give a speech to some forty people, consisting of mentors you look up to as well as your peers. Your speech determines whether you will be elected to a position of authority. You haven't memorized the speech. You also didn't write the speech yourself. It's pretty safe to say that anyone in this position would feel a strong wave of anxiety and fear, manifested in sweaty palms, shaky and shallow breathing, and an utter inability to think.
 
-Well, this was seven-year-old me in a class presidency election. I stuttered through whatever parts of the speech I did memorize, all while bawling my eyes out in front of the crowd for a good ten minutes.
+Well, this was seven-year-old me in a class presidency election (going to grade school in China was a time). I stuttered through whatever parts of the speech I did memorize, all while bawling my eyes out in front of the crowd for a good ten minutes.
 
 Why am I talking about this despite the amount of laughter (and possibly ridicule) this might elicit from my friends? Well, because as far as I can remember, this was the very first case of emotional hijacking I had experienced.
 
