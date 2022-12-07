@@ -56,10 +56,38 @@ To start, I subjected ChatGPT to the exact a similar experience as what I would 
 
 Here's what happened:
 
-Insert video here.
+<iframe width="520" height="315" src="https://www.youtube.com/embed/NC3ngFeGDYk" frameborder="0" allowfullscreen></iframe>
 
 We had a nice little chat, but it's clear that the bot was quite set on the idea of "symmetry", regardless of the number of counter-examples I try to give it. I realized that I needed to be a little more rigorous in the initial problem statement, so this time, I gave it the full problem statement, include the definition of "rotation" above. Once again, we fail quite spectacularly as the bot continues to apologize profusely for its misunderstanding, while also not actually correcting its definition of "rotatable numbers".
 
-Insert video here.
+<iframe width="520" height="315" src="https://www.youtube.com/embed/dee1Oc6JHkk" frameborder="0" allowfullscreen></iframe>
 
 As you can see, the bot will adjust its understanding, but fail to provide examples with more than 5 digits that adhere to the problem requirements. At this point, I come to the realization that in addition to providing counter-examples, I needed to tell the bot why the example violated the problem statement. For example, I needed to explicitly state that ```2 is not a rotatable digit because looking at it upside down would give us gibberish```.
+
+
+#### Writing the Code
+
+Alright, after a bit more finagling, I finally got Mr.Chatbot to agree with me on a definition of rotatable numbers. From here on out, it's just writing the code, which should be a simple translation of understanding to algorithm, right?
+
+Here's what happened...
+
+<iframe width="520" height="315" src="https://www.youtube.com/embed/3Sj7Ce950xo" frameborder="0" allowfullscreen></iframe>
+
+Mr.Chatbot's initial solution was a good start -- it checks that all digits in the number are individually rotatable, but fails to check that after rotation, it remains the same number. As soon as I wrote out an counter-example and saw its subsequent response, I regretted it. My original intention of giving it a counter-example of 666 was to show that its rotation, 999, is not the same number. However, Chatbot boi took it to mean that there should not be duplicated digits :cry:. I tried to make a few more clarifications, but I think I broke him.
+
+<iframe width="520" height="315" src="https://www.youtube.com/embed/eqjRXFDvpAU" frameborder="0" allowfullscreen></iframe>
+
+Fine, my fault for not properly explaining my counter-examples -- I should have learned already. Let me do better. I will be the ideal interviewer. Be the change you want to see in the world, they said.
+
+
+#### Successful Run :D
+At this point we were three and a half hours in, and I needed to get to the gym. Fortunately, in this run, I made sure to back up my counter-examples with explanations, so Chat boi can make adjustments accordingly.
+
+Here it is, in all its glory.
+
+<iframe width="520" height="315" src="https://www.youtube.com/embed/Okqt2IsfjFk" frameborder="0" allowfullscreen></iframe>
+
+### Conclusion
+I definitely played myself in this endeavor :face_with_head_bandage:. 
+
+In all seriousness though, ChatGPT will definitely save some of us a ton of time when playing around with side projects, or even just learning new tooling as part of the job. It thrives when asked non-ambiguous, "how-to" style questions, but unfortunately is yet to make reasonable inferences that are a simple hop or two away.
