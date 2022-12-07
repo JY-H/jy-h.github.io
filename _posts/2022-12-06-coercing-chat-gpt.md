@@ -94,3 +94,4 @@ No doubt I played myself in this endeavor :face_with_head_bandage:.
 In all seriousness though, ChatGPT will definitely save some of us a ton of time when playing around with side projects, or even just learning new tooling as part of the job. It thrives when asked non-ambiguous, "how-to" style questions, but unfortunately is yet to make reasonable inferences that are a simple hop or two away.
 
 That's probably a good thing :face_in_clouds:
+
